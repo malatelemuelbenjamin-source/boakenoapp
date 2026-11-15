@@ -1,0 +1,15 @@
+{
+  "name": "MyBoakenoApp",
+  "short_name": "MyBoakeno",
+  "description": "Tourism, local shopping and community services for Boac, Marinduque — heritage places, Boac sellers, delivery tracking and MDRRMO alerts.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffdcdc",
+  "theme_color": "#e01414",
+  "orientation": "portrait",
+  "categories": ["travel", "shopping", "lifestyle"],
+  "icons": [
+    { "src": "/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/logo.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
